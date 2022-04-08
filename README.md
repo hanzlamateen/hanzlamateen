@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzlamateen&hide=isues,stars&?count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlamateen&layout=compact&theme=radical&exclude_repo=CNNs_models,tf_regression_and_classification_model,spam-filter,movie-recommender,S_V_M_Model,KNN-model,Random-Forest-Project,Logistic-Regression-Projec,Customer-Preference-Model )](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzlamateen?count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlamateen&layout=compact&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
