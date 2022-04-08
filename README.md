@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Outlook Badge](https://img.shields.io/badge/-hanzlamateen@live.com-c14438?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:hanzlamateen@live.com)](mailto:hanzlamateen@live.com)
 
 
-### Skills List
+### Skills
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
