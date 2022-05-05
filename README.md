@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m a passionate full-stack developer specialized in Agile development.
 - ⚡ I am a tech enthusiast & an open-source advocate.
 - 👯 I’m looking for collaborations on innovative project solutions.
-- 📫 How to reach me: <a href="mailto:hanzlamateen@live.com">send me an E-mail</a>
+- 📫 How to reach me: <a href="mailto:hanzlamateen@live.com">send me an email</a>
 - 💬 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-hanzlamateen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanzlamateen/)](https://www.linkedin.com/in/hanzlamateen/)
