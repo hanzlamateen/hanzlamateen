@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there , I'm Hanzla Mateen <img src="https://raw.githubusercontent.com/hanzlamateen/hanzlamateen/master/wave.gif" width="30px">
+## Hi there , I'm Hanzla Mateen <img src="https://raw.githubusercontent.com/hanzlamateen/hanzlamateen/master/wave.gif" style="width: 30px">
 - 🔭 I’m a passionate full-stack developer specialized in Agile development.
 - ⚡ I am a tech enthusiast & an open-source advocate.
 - 👯 I’m looking for collaborations on innovative project solutions.
