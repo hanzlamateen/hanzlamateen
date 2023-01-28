@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-hanzlamateen-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/hanzlamateen/)](https://www.twitter.com/hanzlamateen/)
 [![Facebook Badge](https://img.shields.io/badge/-hanzlamateen-2374E1?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hanzlamateen/)](https://www.facebook.com/hanzlamateen/)
 [![Skype Badge](https://img.shields.io/badge/-hanzlarocks-0078ca?style=flat-square&logo=skype&logoColor=white&link=skype:hanzlarocks?userinfo)](skype:hanzlarocks?userinfo)
-[![Discord Badge](https://img.shields.io/badge/-Hanzla#20Mateen%231037-5865f2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/586521774708228117?userinfo)](https://discord.com/users/586521774708228117)
+[![Discord Badge](https://img.shields.io/badge/-Hanzla%20Mateen%231037-5865f2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/586521774708228117?userinfo)](https://discord.com/users/586521774708228117)
 [![Outlook Badge](https://img.shields.io/badge/-hanzlamateen@live.com-c14438?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:hanzlamateen@live.com)](mailto:hanzlamateen@live.com)
 
 
