@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 
 
 ### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzlamateen&hide=stars&?count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzlamateen&hide=stars&?count_private=true&show_icons=true&theme=radical&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlamateen&layout=compact&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
